@@ -11,7 +11,9 @@
 
 int delayTime = 500; // delay time variable, in ms
 
-bool speedUpTime = true; // boolean to represent whether LEDs should be speeding up or slowing down
+// boolean to represent whether LEDs should be speeding up or slowing down
+// initially set to false since it will be toggled on when the loop() func runs for the first time
+bool speedUpTime = false;
 
 void setup()
 {
