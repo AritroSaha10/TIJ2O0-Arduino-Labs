@@ -92,7 +92,6 @@ void loop()
     tone(BUZZER_PIN, 98.00);
     delay(500);
     /************ End playing of Hot Cross Buns using the buzzer ************/
-
   }
 
   // Play a higher frequency on the buzzer as the distance lowers 
