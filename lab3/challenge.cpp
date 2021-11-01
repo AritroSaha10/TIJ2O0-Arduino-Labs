@@ -6,10 +6,10 @@
 #include <Wire.h>
 #include <LiquidCrystal.h>
 
-LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // initialize the LCD with pin numbers
+LiquidCrystal lcd(0, 1, 2, 3, 4, 5); // initialize the LCD with pin numbers
 
-int button1Pin = 8;                  //set pin where button 1 is wired
-int button2Pin = 9;                  //set pin where button 2 is wired
+int button1Pin = 12;                  //set pin where button 1 is wired
+int button2Pin = 13;                  //set pin where button 2 is wired
 
 int button1State; //create variable for the state of button 1
 int button2State; //create var for state of button 2
