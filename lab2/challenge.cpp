@@ -1,3 +1,9 @@
+/**
+ * @license
+ * Copyright 2021 Aritro Saha, Tony Lin
+ * This code is released under the MIT license.
+*/
+
 /*
  * Ultrasonic Sensor - Written by Aritro Saha & Tony Lin 2021.10.22
  * This code is written to sense distance and sound a buzzer using

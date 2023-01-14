@@ -1,3 +1,9 @@
+/**
+ * @license
+ * Copyright 2021 Aritro Saha, Tony Lin
+ * This code is released under the MIT license.
+*/
+
 /* Pushbuttons - Written by Aritro Saha & Tony Lin 2021.11.01
    This code is written to display the state of a pushbutton
    digitalRead */

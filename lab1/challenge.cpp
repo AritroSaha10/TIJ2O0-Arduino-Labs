@@ -1,4 +1,10 @@
 /**
+ * @license
+ * Copyright 2021 Aritro Saha
+ * This code is released under the MIT license.
+*/
+
+/**
  * 8 LEDs Challenge - Written by Aritro Saha 2021.10.19
  * This code is written to make 8 LEDs light on and off one
  * after another in a continuous loop using for loops and variables.

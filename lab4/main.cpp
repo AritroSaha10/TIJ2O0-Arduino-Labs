@@ -1,7 +1,13 @@
-#include <Arduino.h>
+/**
+ * @license
+ * Copyright 2021 Aritro Saha, Tony Lin
+ * This code is released under the MIT license.
+*/
 
 /* Motors - Written by Aritro Saha & Tony Lin 2021.11.03
    This code is written to do a drive program with multiple functions. */
+
+#include <Arduino.h>
 
 const int MotorPins[] = {5, 10, 6, 11}; // declare constants for motor pins
 

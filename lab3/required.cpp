@@ -1,4 +1,10 @@
 /**
+ * @license
+ * Copyright 2021 Aritro Saha, Tony Lin
+ * This code is released under the MIT license.
+*/
+
+/**
  * LCD - Written by Aritro Saha & Tony Lin 2021.11.01
  * This code is written to display values to an LCD display
  * using the LiquidCrystal library.

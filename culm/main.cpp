@@ -1,7 +1,12 @@
-#include <Arduino.h>
+/**
+ * @license
+ * Copyright 2021 Aritro Saha
+ * This code is released under the MIT license.
+*/
 
 // DiscoBot program - Written by Aritro Saha 2021.11.15
 // Plays Crab Rave by Noisestorm while powering both the motors and LEDs all simultaneously
+#include <Arduino.h>
 
 // Pin numbers
 int ledPins[] = {13, 12, 11, 8, 7, 4, 2, 1};
